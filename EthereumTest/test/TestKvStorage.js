@@ -7,8 +7,7 @@ contract('KvStorage', function (accounts) {
             var key = '1';
             var storage = null;
             var start = new Date();
-            // 官网上这里用的不是new而是deploy，但是我用deploy会报错，原因暂时未知
-            return KvStorage.new().then(function (instance) {
+            return KvStorage.deployed().then(function (instance) {
                 storage = instance;
                 // 没有返回值的函数这样测试：
                 return storage.set(key, data, {from: accounts[0]});
