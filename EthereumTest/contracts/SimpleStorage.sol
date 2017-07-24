@@ -8,7 +8,7 @@ contract SimpleStorage {
         value = _value;
     }
 
-    function get() constant returns(uint) {
+    function get() constant returns (uint) {
         return value;
     }
 }
