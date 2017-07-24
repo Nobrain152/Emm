@@ -1,7 +1,7 @@
 var KvStorage = artifacts.require('./KvStorage.sol');
 
 contract('KvStorage', function (accounts) {
-    for (var i = 0; i < 1; i++) {
+    for (var i = 0; i < 1000; i++) {
         it('What we get should be the same as what we set', function () {
             var data = '233';
             var key = '1';
@@ -16,7 +16,7 @@ contract('KvStorage', function (accounts) {
                 return storage.get.call(key, {from: accounts[0]});
             }).then(function (testData) {
                 assert.equal(testData, data, "We don't get what we put");
-            }).then(function() {
+            }).then(function () {
                 var end = new Date();
                 var time = end - start;
                 // 输出测试时间，这里的时间是自己算的，更加准确
