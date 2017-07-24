@@ -10,7 +10,7 @@ contract('KvStorage', function (accounts) {
             return KvStorage.deployed().then(function (instance) {
                 storage = instance;
                 // 没有返回值的函数这样测试：
-                return storage.set(key, data, {from: accounts[0]});
+                return storage.put(key, data, {from: accounts[0]});
             }).then(function () {
                 // 有返回值的函数这样测试：
                 return storage.get.call(key, {from: accounts[0]});

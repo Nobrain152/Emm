@@ -8,7 +8,7 @@ contract KvStorage {
         return store[key];
     }
 
-    function set(string key, string value) {
+    function put(string key, string value) {
         store[key] = value;
     }
 }
