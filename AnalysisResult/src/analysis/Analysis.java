@@ -71,17 +71,18 @@ public class Analysis {
         for (String tc : cases) {
             String fromPath = FROM_PATH + tc;
             String toPath = TO_PATH;
-            String index = tc.toUpperCase() + "\t\t" + df.format(new Date()) + "\t\t" + os + "\t\tMEAN: ";
+            String index = tc.toUpperCase() + "\t\t" + df.format(new Date()) + "\t\t" + os + "\t\tMEAN TIME: ";
             ArrayList<Integer> data = DataReader.readFile(fromPath);
             double res = mean(data);
-            DataWriter.writeFile(index + res + "ms\t\t" + "MAX: " + max(data) + "\t\tMIN: " + min(data) + "\n", toPath);
+            DataWriter.writeFile(index + res + "\t\t\tMAX TIME: " + max(data) + "\t\tMIN TIME: " + min(data) + "\n", toPath);
 
         }
     }
 
     public static void main(String[] args) {
         // 在这里传入你想分析的文件的文件名，可以通过数组或arrayList传入多个文件
-        String[] cases = {"total-trans"};
+        String[] cases = {"k128b-v128b", "k128b-v256b", "k128b-v512b", "k128b-v1kb", "k128b-v2kb", "k128b-v3kb", "k128b-v4kb",
+                "k128b-v5kb", "k128b-v6kb","pure-trans", "total-trans"};
         Analysis analysis = new Analysis(cases);
         analysis.function();
     }
