@@ -14,7 +14,7 @@ contract Transaction {
         balances[tx.origin] = 10000;
     }
     //send可以被任何人（拥有一定数量的代币）调用，发送一些币给其他人
-    function send(address receiver, uint amount) returns(bool sufficient) {
+    function sendCoin(address receiver, uint amount) returns(bool sufficient) {
         if (balances[msg.sender] < amount) return false;
         balances[msg.sender] -= amount;
         balances[receiver] += amount;

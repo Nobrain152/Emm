@@ -1,0 +1,601 @@
+Contract: KvStorage
+   test time is: 1919
+    ✓ What we get should be the same as what we set (1920ms)
+   test time is: 1876
+    ✓ What we get should be the same as what we set (1878ms)
+   test time is: 1849
+    ✓ What we get should be the same as what we set (1849ms)
+   test time is: 1936
+    ✓ What we get should be the same as what we set (1936ms)
+   test time is: 2032
+    ✓ What we get should be the same as what we set (2033ms)
+   test time is: 1759
+    ✓ What we get should be the same as what we set (1760ms)
+   test time is: 1885
+    ✓ What we get should be the same as what we set (1885ms)
+   test time is: 1840
+    ✓ What we get should be the same as what we set (1845ms)
+   test time is: 1890
+    ✓ What we get should be the same as what we set (1890ms)
+   test time is: 1941
+    ✓ What we get should be the same as what we set (1943ms)
+   test time is: 1848
+    ✓ What we get should be the same as what we set (1849ms)
+   test time is: 1904
+    ✓ What we get should be the same as what we set (1904ms)
+   test time is: 1939
+    ✓ What we get should be the same as what we set (1940ms)
+   test time is: 1950
+    ✓ What we get should be the same as what we set (1951ms)
+   test time is: 1999
+    ✓ What we get should be the same as what we set (2001ms)
+   test time is: 1891
+    ✓ What we get should be the same as what we set (1892ms)
+   test time is: 1887
+    ✓ What we get should be the same as what we set (1887ms)
+   test time is: 1924
+    ✓ What we get should be the same as what we set (1924ms)
+   test time is: 1932
+    ✓ What we get should be the same as what we set (1933ms)
+   test time is: 1841
+    ✓ What we get should be the same as what we set (1842ms)
+   test time is: 1956
+    ✓ What we get should be the same as what we set (1956ms)
+   test time is: 1940
+    ✓ What we get should be the same as what we set (1940ms)
+   test time is: 1882
+    ✓ What we get should be the same as what we set (1882ms)
+   test time is: 1817
+    ✓ What we get should be the same as what we set (1818ms)
+   test time is: 1928
+    ✓ What we get should be the same as what we set (1928ms)
+   test time is: 1891
+    ✓ What we get should be the same as what we set (1891ms)
+   test time is: 2012
+    ✓ What we get should be the same as what we set (2012ms)
+   test time is: 1960
+    ✓ What we get should be the same as what we set (1960ms)
+   test time is: 1955
+    ✓ What we get should be the same as what we set (1955ms)
+   test time is: 2029
+    ✓ What we get should be the same as what we set (2029ms)
+   test time is: 2027
+    ✓ What we get should be the same as what we set (2028ms)
+   test time is: 1922
+    ✓ What we get should be the same as what we set (1922ms)
+   test time is: 1977
+    ✓ What we get should be the same as what we set (1977ms)
+   test time is: 2028
+    ✓ What we get should be the same as what we set (2028ms)
+   test time is: 2004
+    ✓ What we get should be the same as what we set (2004ms)
+   test time is: 2141
+    ✓ What we get should be the same as what we set (2141ms)
+   test time is: 2192
+    ✓ What we get should be the same as what we set (2192ms)
+   test time is: 2031
+    ✓ What we get should be the same as what we set (2031ms)
+   test time is: 1963
+    ✓ What we get should be the same as what we set (1964ms)
+   test time is: 1831
+    ✓ What we get should be the same as what we set (1832ms)
+   test time is: 2022
+    ✓ What we get should be the same as what we set (2022ms)
+   test time is: 2087
+    ✓ What we get should be the same as what we set (2088ms)
+   test time is: 2046
+    ✓ What we get should be the same as what we set (2046ms)
+   test time is: 2093
+    ✓ What we get should be the same as what we set (2093ms)
+   test time is: 1982
+    ✓ What we get should be the same as what we set (1982ms)
+   test time is: 1939
+    ✓ What we get should be the same as what we set (1939ms)
+   test time is: 2048
+    ✓ What we get should be the same as what we set (2048ms)
+   test time is: 1970
+    ✓ What we get should be the same as what we set (1970ms)
+   test time is: 1905
+    ✓ What we get should be the same as what we set (1905ms)
+   test time is: 2033
+    ✓ What we get should be the same as what we set (2033ms)
+   test time is: 2089
+    ✓ What we get should be the same as what we set (2090ms)
+   test time is: 1913
+    ✓ What we get should be the same as what we set (1913ms)
+   test time is: 2007
+    ✓ What we get should be the same as what we set (2007ms)
+   test time is: 1998
+    ✓ What we get should be the same as what we set (1999ms)
+   test time is: 2039
+    ✓ What we get should be the same as what we set (2039ms)
+   test time is: 2001
+    ✓ What we get should be the same as what we set (2001ms)
+   test time is: 2054
+    ✓ What we get should be the same as what we set (2055ms)
+   test time is: 1984
+    ✓ What we get should be the same as what we set (1984ms)
+   test time is: 2041
+    ✓ What we get should be the same as what we set (2041ms)
+   test time is: 1954
+    ✓ What we get should be the same as what we set (1954ms)
+   test time is: 1963
+    ✓ What we get should be the same as what we set (1964ms)
+   test time is: 2176
+    ✓ What we get should be the same as what we set (2176ms)
+   test time is: 2262
+    ✓ What we get should be the same as what we set (2262ms)
+   test time is: 1847
+    ✓ What we get should be the same as what we set (1847ms)
+   test time is: 2047
+    ✓ What we get should be the same as what we set (2048ms)
+   test time is: 2106
+    ✓ What we get should be the same as what we set (2106ms)
+   test time is: 2065
+    ✓ What we get should be the same as what we set (2065ms)
+   test time is: 2437
+    ✓ What we get should be the same as what we set (2437ms)
+   test time is: 1996
+    ✓ What we get should be the same as what we set (1996ms)
+   test time is: 2019
+    ✓ What we get should be the same as what we set (2021ms)
+   test time is: 2083
+    ✓ What we get should be the same as what we set (2083ms)
+   test time is: 2156
+    ✓ What we get should be the same as what we set (2156ms)
+   test time is: 2019
+    ✓ What we get should be the same as what we set (2019ms)
+   test time is: 2034
+    ✓ What we get should be the same as what we set (2034ms)
+   test time is: 2491
+    ✓ What we get should be the same as what we set (2492ms)
+   test time is: 2001
+    ✓ What we get should be the same as what we set (2001ms)
+   test time is: 2257
+    ✓ What we get should be the same as what we set (2258ms)
+   test time is: 2245
+    ✓ What we get should be the same as what we set (2245ms)
+   test time is: 1898
+    ✓ What we get should be the same as what we set (1898ms)
+   test time is: 2106
+    ✓ What we get should be the same as what we set (2106ms)
+   test time is: 1907
+    ✓ What we get should be the same as what we set (1908ms)
+   test time is: 1994
+    ✓ What we get should be the same as what we set (1995ms)
+   test time is: 1954
+    ✓ What we get should be the same as what we set (1954ms)
+   test time is: 1994
+    ✓ What we get should be the same as what we set (1994ms)
+   test time is: 2025
+    ✓ What we get should be the same as what we set (2026ms)
+   test time is: 2044
+    ✓ What we get should be the same as what we set (2045ms)
+   test time is: 2024
+    ✓ What we get should be the same as what we set (2025ms)
+   test time is: 2052
+    ✓ What we get should be the same as what we set (2052ms)
+   test time is: 1893
+    ✓ What we get should be the same as what we set (1894ms)
+   test time is: 2049
+    ✓ What we get should be the same as what we set (2049ms)
+   test time is: 1958
+    ✓ What we get should be the same as what we set (1958ms)
+   test time is: 1970
+    ✓ What we get should be the same as what we set (1971ms)
+   test time is: 2064
+    ✓ What we get should be the same as what we set (2065ms)
+   test time is: 1780
+    ✓ What we get should be the same as what we set (1781ms)
+   test time is: 1985
+    ✓ What we get should be the same as what we set (1985ms)
+   test time is: 1915
+    ✓ What we get should be the same as what we set (1915ms)
+   test time is: 2015
+    ✓ What we get should be the same as what we set (2015ms)
+   test time is: 1894
+    ✓ What we get should be the same as what we set (1895ms)
+   test time is: 1927
+    ✓ What we get should be the same as what we set (1927ms)
+   test time is: 1899
+    ✓ What we get should be the same as what we set (1899ms)
+   test time is: 1943
+    ✓ What we get should be the same as what we set (1943ms)
+   test time is: 1995
+    ✓ What we get should be the same as what we set (1995ms)
+   test time is: 1924
+    ✓ What we get should be the same as what we set (1924ms)
+   test time is: 1969
+    ✓ What we get should be the same as what we set (1969ms)
+   test time is: 2049
+    ✓ What we get should be the same as what we set (2049ms)
+   test time is: 2020
+    ✓ What we get should be the same as what we set (2020ms)
+   test time is: 1954
+    ✓ What we get should be the same as what we set (1954ms)
+   test time is: 1998
+    ✓ What we get should be the same as what we set (1999ms)
+   test time is: 2259
+    ✓ What we get should be the same as what we set (2260ms)
+   test time is: 2355
+    ✓ What we get should be the same as what we set (2355ms)
+   test time is: 2369
+    ✓ What we get should be the same as what we set (2369ms)
+   test time is: 2154
+    ✓ What we get should be the same as what we set (2154ms)
+   test time is: 2232
+    ✓ What we get should be the same as what we set (2232ms)
+   test time is: 2255
+    ✓ What we get should be the same as what we set (2255ms)
+   test time is: 2227
+    ✓ What we get should be the same as what we set (2227ms)
+   test time is: 1932
+    ✓ What we get should be the same as what we set (1932ms)
+   test time is: 2159
+    ✓ What we get should be the same as what we set (2160ms)
+   test time is: 2146
+    ✓ What we get should be the same as what we set (2146ms)
+   test time is: 2093
+    ✓ What we get should be the same as what we set (2093ms)
+   test time is: 1997
+    ✓ What we get should be the same as what we set (1997ms)
+   test time is: 2076
+    ✓ What we get should be the same as what we set (2077ms)
+   test time is: 1965
+    ✓ What we get should be the same as what we set (1965ms)
+   test time is: 1910
+    ✓ What we get should be the same as what we set (1910ms)
+   test time is: 2009
+    ✓ What we get should be the same as what we set (2009ms)
+   test time is: 2112
+    ✓ What we get should be the same as what we set (2112ms)
+   test time is: 2035
+    ✓ What we get should be the same as what we set (2036ms)
+   test time is: 2138
+    ✓ What we get should be the same as what we set (2138ms)
+   test time is: 1987
+    ✓ What we get should be the same as what we set (1988ms)
+   test time is: 2052
+    ✓ What we get should be the same as what we set (2052ms)
+   test time is: 2051
+    ✓ What we get should be the same as what we set (2052ms)
+   test time is: 2095
+    ✓ What we get should be the same as what we set (2095ms)
+   test time is: 2200
+    ✓ What we get should be the same as what we set (2201ms)
+   test time is: 1981
+    ✓ What we get should be the same as what we set (1981ms)
+   test time is: 2048
+    ✓ What we get should be the same as what we set (2048ms)
+   test time is: 2075
+    ✓ What we get should be the same as what we set (2077ms)
+   test time is: 1989
+    ✓ What we get should be the same as what we set (1989ms)
+   test time is: 2016
+    ✓ What we get should be the same as what we set (2016ms)
+   test time is: 2055
+    ✓ What we get should be the same as what we set (2055ms)
+   test time is: 2031
+    ✓ What we get should be the same as what we set (2032ms)
+   test time is: 2065
+    ✓ What we get should be the same as what we set (2065ms)
+   test time is: 1967
+    ✓ What we get should be the same as what we set (1967ms)
+   test time is: 2042
+    ✓ What we get should be the same as what we set (2042ms)
+   test time is: 1986
+    ✓ What we get should be the same as what we set (1986ms)
+   test time is: 2079
+    ✓ What we get should be the same as what we set (2079ms)
+   test time is: 2020
+    ✓ What we get should be the same as what we set (2020ms)
+   test time is: 2111
+    ✓ What we get should be the same as what we set (2111ms)
+   test time is: 2050
+    ✓ What we get should be the same as what we set (2050ms)
+   test time is: 2017
+    ✓ What we get should be the same as what we set (2017ms)
+   test time is: 1947
+    ✓ What we get should be the same as what we set (1947ms)
+   test time is: 1905
+    ✓ What we get should be the same as what we set (1905ms)
+   test time is: 1913
+    ✓ What we get should be the same as what we set (1914ms)
+   test time is: 1875
+    ✓ What we get should be the same as what we set (1875ms)
+   test time is: 1919
+    ✓ What we get should be the same as what we set (1919ms)
+   test time is: 2063
+    ✓ What we get should be the same as what we set (2063ms)
+   test time is: 2003
+    ✓ What we get should be the same as what we set (2003ms)
+   test time is: 2110
+    ✓ What we get should be the same as what we set (2110ms)
+   test time is: 2150
+    ✓ What we get should be the same as what we set (2151ms)
+   test time is: 1968
+    ✓ What we get should be the same as what we set (1970ms)
+   test time is: 1928
+    ✓ What we get should be the same as what we set (1928ms)
+   test time is: 2079
+    ✓ What we get should be the same as what we set (2080ms)
+   test time is: 2109
+    ✓ What we get should be the same as what we set (2109ms)
+   test time is: 2111
+    ✓ What we get should be the same as what we set (2112ms)
+   test time is: 2001
+    ✓ What we get should be the same as what we set (2001ms)
+   test time is: 1850
+    ✓ What we get should be the same as what we set (1850ms)
+   test time is: 2044
+    ✓ What we get should be the same as what we set (2044ms)
+   test time is: 1895
+    ✓ What we get should be the same as what we set (1895ms)
+   test time is: 2297
+    ✓ What we get should be the same as what we set (2297ms)
+   test time is: 1968
+    ✓ What we get should be the same as what we set (1968ms)
+   test time is: 2020
+    ✓ What we get should be the same as what we set (2020ms)
+   test time is: 2017
+    ✓ What we get should be the same as what we set (2018ms)
+   test time is: 2065
+    ✓ What we get should be the same as what we set (2065ms)
+   test time is: 2106
+    ✓ What we get should be the same as what we set (2107ms)
+   test time is: 1957
+    ✓ What we get should be the same as what we set (1960ms)
+   test time is: 2056
+    ✓ What we get should be the same as what we set (2056ms)
+   test time is: 1998
+    ✓ What we get should be the same as what we set (1999ms)
+   test time is: 1993
+    ✓ What we get should be the same as what we set (1993ms)
+   test time is: 1876
+    ✓ What we get should be the same as what we set (1876ms)
+   test time is: 2080
+    ✓ What we get should be the same as what we set (2081ms)
+   test time is: 2022
+    ✓ What we get should be the same as what we set (2022ms)
+   test time is: 2082
+    ✓ What we get should be the same as what we set (2082ms)
+   test time is: 2001
+    ✓ What we get should be the same as what we set (2001ms)
+   test time is: 2003
+    ✓ What we get should be the same as what we set (2003ms)
+   test time is: 1975
+    ✓ What we get should be the same as what we set (1975ms)
+   test time is: 1922
+    ✓ What we get should be the same as what we set (1922ms)
+   test time is: 1994
+    ✓ What we get should be the same as what we set (1994ms)
+   test time is: 1878
+    ✓ What we get should be the same as what we set (1878ms)
+   test time is: 2016
+    ✓ What we get should be the same as what we set (2016ms)
+   test time is: 1896
+    ✓ What we get should be the same as what we set (1896ms)
+   test time is: 1923
+    ✓ What we get should be the same as what we set (1923ms)
+   test time is: 2036
+    ✓ What we get should be the same as what we set (2037ms)
+   test time is: 2062
+    ✓ What we get should be the same as what we set (2063ms)
+   test time is: 1964
+    ✓ What we get should be the same as what we set (1964ms)
+   test time is: 1938
+    ✓ What we get should be the same as what we set (1938ms)
+   test time is: 2044
+    ✓ What we get should be the same as what we set (2044ms)
+   test time is: 1983
+    ✓ What we get should be the same as what we set (1983ms)
+   test time is: 2017
+    ✓ What we get should be the same as what we set (2017ms)
+   test time is: 2006
+    ✓ What we get should be the same as what we set (2006ms)
+   test time is: 2107
+    ✓ What we get should be the same as what we set (2107ms)
+   test time is: 2007
+    ✓ What we get should be the same as what we set (2008ms)
+   test time is: 2048
+    ✓ What we get should be the same as what we set (2048ms)
+   test time is: 2024
+    ✓ What we get should be the same as what we set (2024ms)
+   test time is: 2099
+    ✓ What we get should be the same as what we set (2099ms)
+   test time is: 1882
+    ✓ What we get should be the same as what we set (1882ms)
+   test time is: 1908
+    ✓ What we get should be the same as what we set (1910ms)
+   test time is: 2049
+    ✓ What we get should be the same as what we set (2049ms)
+   test time is: 1962
+    ✓ What we get should be the same as what we set (1962ms)
+   test time is: 2073
+    ✓ What we get should be the same as what we set (2073ms)
+   test time is: 2058
+    ✓ What we get should be the same as what we set (2059ms)
+   test time is: 2042
+    ✓ What we get should be the same as what we set (2043ms)
+   test time is: 2053
+    ✓ What we get should be the same as what we set (2053ms)
+   test time is: 1995
+    ✓ What we get should be the same as what we set (1996ms)
+   test time is: 2072
+    ✓ What we get should be the same as what we set (2072ms)
+   test time is: 2172
+    ✓ What we get should be the same as what we set (2173ms)
+   test time is: 2078
+    ✓ What we get should be the same as what we set (2078ms)
+   test time is: 2023
+    ✓ What we get should be the same as what we set (2024ms)
+   test time is: 2185
+    ✓ What we get should be the same as what we set (2186ms)
+   test time is: 1952
+    ✓ What we get should be the same as what we set (1952ms)
+   test time is: 2154
+    ✓ What we get should be the same as what we set (2155ms)
+   test time is: 2080
+    ✓ What we get should be the same as what we set (2081ms)
+   test time is: 2047
+    ✓ What we get should be the same as what we set (2047ms)
+   test time is: 2129
+    ✓ What we get should be the same as what we set (2130ms)
+   test time is: 2115
+    ✓ What we get should be the same as what we set (2115ms)
+   test time is: 2281
+    ✓ What we get should be the same as what we set (2281ms)
+   test time is: 2722
+    ✓ What we get should be the same as what we set (2722ms)
+   test time is: 2018
+    ✓ What we get should be the same as what we set (2018ms)
+   test time is: 2165
+    ✓ What we get should be the same as what we set (2165ms)
+   test time is: 2366
+    ✓ What we get should be the same as what we set (2366ms)
+   test time is: 2336
+    ✓ What we get should be the same as what we set (2337ms)
+   test time is: 2451
+    ✓ What we get should be the same as what we set (2451ms)
+   test time is: 2207
+    ✓ What we get should be the same as what we set (2208ms)
+    1) What we get should be the same as what we set
+    > No events were emitted
+    2) What we get should be the same as what we set
+    > No events were emitted
+    3) What we get should be the same as what we set
+    > No events were emitted
+    4) What we get should be the same as what we set
+    > No events were emitted
+    5) What we get should be the same as what we set
+    > No events were emitted
+    6) What we get should be the same as what we set
+    > No events were emitted
+    7) What we get should be the same as what we set
+    > No events were emitted
+    8) What we get should be the same as what we set
+    > No events were emitted
+    9) What we get should be the same as what we set
+    > No events were emitted
+    10) What we get should be the same as what we set
+    > No events were emitted
+    11) What we get should be the same as what we set
+    > No events were emitted
+    12) What we get should be the same as what we set
+    > No events were emitted
+    13) What we get should be the same as what we set
+    > No events were emitted
+    14) What we get should be the same as what we set
+    > No events were emitted
+    15) What we get should be the same as what we set
+    > No events were emitted
+    16) What we get should be the same as what we set
+    > No events were emitted
+    17) What we get should be the same as what we set
+    > No events were emitted
+    18) What we get should be the same as what we set
+    > No events were emitted
+    19) What we get should be the same as what we set
+    > No events were emitted
+    20) What we get should be the same as what we set
+    > No events were emitted
+    21) What we get should be the same as what we set
+    > No events were emitted
+    22) What we get should be the same as what we set
+    > No events were emitted
+    23) What we get should be the same as what we set
+    > No events were emitted
+    24) What we get should be the same as what we set
+    > No events were emitted
+    25) What we get should be the same as what we set
+    > No events were emitted
+    26) What we get should be the same as what we set
+    > No events were emitted
+    27) What we get should be the same as what we set
+    > No events were emitted
+    28) What we get should be the same as what we set
+    > No events were emitted
+    29) What we get should be the same as what we set
+    > No events were emitted
+    30) What we get should be the same as what we set
+    > No events were emitted
+    31) What we get should be the same as what we set
+    > No events were emitted
+    32) What we get should be the same as what we set
+    > No events were emitted
+    33) What we get should be the same as what we set
+    > No events were emitted
+    34) What we get should be the same as what we set
+    > No events were emitted
+    35) What we get should be the same as what we set
+    > No events were emitted
+    36) What we get should be the same as what we set
+    > No events were emitted
+    37) What we get should be the same as what we set
+    > No events were emitted
+    38) What we get should be the same as what we set
+    > No events were emitted
+    39) What we get should be the same as what we set
+    > No events were emitted
+    40) What we get should be the same as what we set
+    > No events were emitted
+    41) What we get should be the same as what we set
+    > No events were emitted
+    42) What we get should be the same as what we set
+    > No events were emitted
+    43) What we get should be the same as what we set
+    > No events were emitted
+    44) What we get should be the same as what we set
+    > No events were emitted
+    45) What we get should be the same as what we set
+    > No events were emitted
+    46) What we get should be the same as what we set
+    > No events were emitted
+    47) What we get should be the same as what we set
+    > No events were emitted
+    48) What we get should be the same as what we set
+    > No events were emitted
+    49) What we get should be the same as what we set
+    > No events were emitted
+    50) What we get should be the same as what we set
+    > No events were emitted
+    51) What we get should be the same as what we set
+    > No events were emitted
+    52) What we get should be the same as what we set
+    > No events were emitted
+    53) What we get should be the same as what we set
+    > No events were emitted
+    54) What we get should be the same as what we set
+    > No events were emitted
+    55) What we get should be the same as what we set
+    > No events were emitted
+    56) What we get should be the same as what we set
+    > No events were emitted
+    57) What we get should be the same as what we set
+    > No events were emitted
+    58) What we get should be the same as what we set
+    > No events were emitted
+    59) What we get should be the same as what we set
+    > No events were emitted
+    60) What we get should be the same as what we set
+    > No events were emitted
+    61) What we get should be the same as what we set
+    > No events were emitted
+    62) What we get should be the same as what we set
+    > No events were emitted
+    63) What we get should be the same as what we set
+    > No events were emitted
+    64) What we get should be the same as what we set
+    > No events were emitted
+    65) What we get should be the same as what we set
+    > No events were emitted
+    66) What we get should be the same as what we set
+    > No events were emitted
+    67) What we get should be the same as what we set
+    > No events were emitted
+    68) What we get should be the same as what we set
+    > No events were emitted
+    69) What we get should be the same as what we set
+    > No events were emitted
+    70) What we get should be the same as what we set
+    > No events were emitted
