@@ -4,7 +4,7 @@
 var Transaction = artifacts.require('./Transaction.sol');
 
 contract('Transaction', function (accounts) {
-    for (var i = 0; i < 1; i++) {
+    for (var i = 0; i < 1000; i++) {
         it("A should send coin to B correctly", function () {
             var trans;
             var account_A = accounts[0];
@@ -20,6 +20,7 @@ contract('Transaction', function (accounts) {
             var amount = 10;
 
             return Transaction.deployed().then(function (instance) {
+                start = new Date();
                 trans = instance;
                 return trans.getBalance.call(account_A);
             }).then(function (balance) {
@@ -27,16 +28,15 @@ contract('Transaction', function (accounts) {
                 return trans.getBalance.call(account_B);
             }).then(function (balance) {
                 origin_B = balance.toNumber();
-                start = new Date();
                 return trans.sendCoin(account_B, amount, {from: account_A});
             }).then(function () {
-                end = new Date();
                 return trans.getBalance.call(account_A);
             }).then(function (balance) {
                 finish_A = balance.toNumber();
                 return trans.getBalance.call(account_B);
             }).then(function (balance) {
                 finish_B = balance.toNumber();
+                end = new Date();
                 assert.equal(finish_A, origin_A - amount, "Fail transaction from the sender");
                 assert.equal(finish_B, origin_B + amount, "Fail transaction to the receiver");
                 var time = end - start;

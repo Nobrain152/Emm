@@ -81,8 +81,7 @@ public class Analysis {
 
     public static void main(String[] args) {
         // 在这里传入你想分析的文件的文件名，可以通过数组或arrayList传入多个文件
-        String[] cases = {"k128b-v128b", "k128b-v256b", "k128b-v512b", "k128b-v1kb", "k128b-v2kb", "k128b-v3kb",
-                "k128b-v4kb", "k128b-v5kb", "k128b-v6kb"};
+        String[] cases = {"total-trans"};
         Analysis analysis = new Analysis(cases);
         analysis.function();
     }

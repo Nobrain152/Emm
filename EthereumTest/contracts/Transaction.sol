@@ -11,7 +11,7 @@ contract Transaction {
 
     //这个构造函数的代码仅仅只在合约创建的时候被运行。它会永久得存储合约创建者的地址
     function Transaction() {
-        balances[tx.origin] = 10000;
+        balances[tx.origin] = 100000;
     }
     //send可以被任何人（拥有一定数量的代币）调用，发送一些币给其他人
     function sendCoin(address receiver, uint amount) returns(bool sufficient) {

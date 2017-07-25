@@ -1,0 +1,2001 @@
+Contract: Transaction
+   test time is: 44
+    ✓ A should send coin to B correctly (176ms)
+   test time is: 39
+    ✓ A should send coin to B correctly (154ms)
+   test time is: 37
+    ✓ A should send coin to B correctly (148ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (135ms)
+   test time is: 31
+    ✓ A should send coin to B correctly (132ms)
+   test time is: 33
+    ✓ A should send coin to B correctly (139ms)
+   test time is: 39
+    ✓ A should send coin to B correctly (164ms)
+   test time is: 24
+    ✓ A should send coin to B correctly (143ms)
+   test time is: 29
+    ✓ A should send coin to B correctly (126ms)
+   test time is: 29
+    ✓ A should send coin to B correctly (132ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (128ms)
+   test time is: 39
+    ✓ A should send coin to B correctly (138ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (126ms)
+   test time is: 29
+    ✓ A should send coin to B correctly (126ms)
+   test time is: 41
+    ✓ A should send coin to B correctly (137ms)
+   test time is: 39
+    ✓ A should send coin to B correctly (133ms)
+   test time is: 30
+    ✓ A should send coin to B correctly (123ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (121ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (133ms)
+   test time is: 39
+    ✓ A should send coin to B correctly (128ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (114ms)
+   test time is: 33
+    ✓ A should send coin to B correctly (133ms)
+   test time is: 40
+    ✓ A should send coin to B correctly (137ms)
+   test time is: 47
+    ✓ A should send coin to B correctly (150ms)
+   test time is: 31
+    ✓ A should send coin to B correctly (131ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (134ms)
+   test time is: 35
+    ✓ A should send coin to B correctly (126ms)
+   test time is: 29
+    ✓ A should send coin to B correctly (131ms)
+   test time is: 32
+    ✓ A should send coin to B correctly (122ms)
+   test time is: 30
+    ✓ A should send coin to B correctly (128ms)
+   test time is: 29
+    ✓ A should send coin to B correctly (120ms)
+   test time is: 37
+    ✓ A should send coin to B correctly (130ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (138ms)
+   test time is: 36
+    ✓ A should send coin to B correctly (132ms)
+   test time is: 32
+    ✓ A should send coin to B correctly (127ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (137ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (128ms)
+   test time is: 34
+    ✓ A should send coin to B correctly (126ms)
+   test time is: 29
+    ✓ A should send coin to B correctly (130ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (111ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (117ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (124ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (113ms)
+   test time is: 32
+    ✓ A should send coin to B correctly (133ms)
+   test time is: 35
+    ✓ A should send coin to B correctly (121ms)
+   test time is: 32
+    ✓ A should send coin to B correctly (127ms)
+   test time is: 31
+    ✓ A should send coin to B correctly (148ms)
+   test time is: 30
+    ✓ A should send coin to B correctly (128ms)
+   test time is: 38
+    ✓ A should send coin to B correctly (124ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (121ms)
+   test time is: 49
+    ✓ A should send coin to B correctly (139ms)
+   test time is: 39
+    ✓ A should send coin to B correctly (125ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (118ms)
+   test time is: 29
+    ✓ A should send coin to B correctly (117ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (121ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (119ms)
+   test time is: 29
+    ✓ A should send coin to B correctly (131ms)
+   test time is: 29
+    ✓ A should send coin to B correctly (148ms)
+   test time is: 41
+    ✓ A should send coin to B correctly (132ms)
+   test time is: 29
+    ✓ A should send coin to B correctly (126ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (116ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (122ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (119ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (111ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (124ms)
+   test time is: 39
+    ✓ A should send coin to B correctly (127ms)
+   test time is: 29
+    ✓ A should send coin to B correctly (119ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (116ms)
+   test time is: 40
+    ✓ A should send coin to B correctly (133ms)
+   test time is: 32
+    ✓ A should send coin to B correctly (139ms)
+   test time is: 30
+    ✓ A should send coin to B correctly (139ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (112ms)
+   test time is: 24
+    ✓ A should send coin to B correctly (118ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (118ms)
+   test time is: 23
+    ✓ A should send coin to B correctly (117ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (130ms)
+   test time is: 35
+    ✓ A should send coin to B correctly (118ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (112ms)
+   test time is: 24
+    ✓ A should send coin to B correctly (122ms)
+   test time is: 35
+    ✓ A should send coin to B correctly (120ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (121ms)
+   test time is: 33
+    ✓ A should send coin to B correctly (132ms)
+   test time is: 37
+    ✓ A should send coin to B correctly (143ms)
+   test time is: 33
+    ✓ A should send coin to B correctly (136ms)
+   test time is: 30
+    ✓ A should send coin to B correctly (129ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (125ms)
+   test time is: 37
+    ✓ A should send coin to B correctly (122ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (119ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (113ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (123ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (121ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (113ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (118ms)
+   test time is: 35
+    ✓ A should send coin to B correctly (125ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (114ms)
+   test time is: 34
+    ✓ A should send coin to B correctly (147ms)
+   test time is: 45
+    ✓ A should send coin to B correctly (139ms)
+   test time is: 32
+    ✓ A should send coin to B correctly (144ms)
+   test time is: 30
+    ✓ A should send coin to B correctly (117ms)
+   test time is: 30
+    ✓ A should send coin to B correctly (131ms)
+   test time is: 34
+    ✓ A should send coin to B correctly (121ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (121ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (112ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (122ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (120ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (111ms)
+   test time is: 29
+    ✓ A should send coin to B correctly (130ms)
+   test time is: 37
+    ✓ A should send coin to B correctly (125ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (113ms)
+   test time is: 29
+    ✓ A should send coin to B correctly (138ms)
+   test time is: 41
+    ✓ A should send coin to B correctly (135ms)
+   test time is: 29
+    ✓ A should send coin to B correctly (136ms)
+   test time is: 38
+    ✓ A should send coin to B correctly (125ms)
+   test time is: 24
+    ✓ A should send coin to B correctly (115ms)
+   test time is: 32
+    ✓ A should send coin to B correctly (122ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (118ms)
+   test time is: 30
+    ✓ A should send coin to B correctly (114ms)
+   test time is: 42
+    ✓ A should send coin to B correctly (127ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (121ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (111ms)
+   test time is: 24
+    ✓ A should send coin to B correctly (126ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (120ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (109ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (126ms)
+   test time is: 40
+    ✓ A should send coin to B correctly (138ms)
+   test time is: 31
+    ✓ A should send coin to B correctly (126ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (153ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (117ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (116ms)
+   test time is: 23
+    ✓ A should send coin to B correctly (114ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (118ms)
+   test time is: 29
+    ✓ A should send coin to B correctly (116ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (117ms)
+   test time is: 31
+    ✓ A should send coin to B correctly (118ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (112ms)
+   test time is: 24
+    ✓ A should send coin to B correctly (119ms)
+   test time is: 34
+    ✓ A should send coin to B correctly (120ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (118ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (109ms)
+   test time is: 23
+    ✓ A should send coin to B correctly (143ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (128ms)
+   test time is: 29
+    ✓ A should send coin to B correctly (128ms)
+   test time is: 29
+    ✓ A should send coin to B correctly (146ms)
+   test time is: 45
+    ✓ A should send coin to B correctly (144ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (120ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (117ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (126ms)
+   test time is: 31
+    ✓ A should send coin to B correctly (119ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (115ms)
+   test time is: 23
+    ✓ A should send coin to B correctly (116ms)
+   test time is: 35
+    ✓ A should send coin to B correctly (119ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (118ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (120ms)
+   test time is: 36
+    ✓ A should send coin to B correctly (127ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (124ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (113ms)
+   test time is: 32
+    ✓ A should send coin to B correctly (135ms)
+   test time is: 30
+    ✓ A should send coin to B correctly (141ms)
+   test time is: 31
+    ✓ A should send coin to B correctly (142ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (107ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (120ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (122ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (114ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (127ms)
+   test time is: 33
+    ✓ A should send coin to B correctly (125ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (119ms)
+   test time is: 23
+    ✓ A should send coin to B correctly (121ms)
+   test time is: 36
+    ✓ A should send coin to B correctly (132ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (121ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (107ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (119ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (127ms)
+   test time is: 32
+    ✓ A should send coin to B correctly (131ms)
+   test time is: 30
+    ✓ A should send coin to B correctly (138ms)
+   test time is: 41
+    ✓ A should send coin to B correctly (132ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (123ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (113ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (115ms)
+   test time is: 34
+    ✓ A should send coin to B correctly (118ms)
+   test time is: 24
+    ✓ A should send coin to B correctly (113ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (123ms)
+   test time is: 37
+    ✓ A should send coin to B correctly (127ms)
+   test time is: 24
+    ✓ A should send coin to B correctly (116ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (111ms)
+   test time is: 35
+    ✓ A should send coin to B correctly (124ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (125ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (110ms)
+   test time is: 31
+    ✓ A should send coin to B correctly (139ms)
+   test time is: 34
+    ✓ A should send coin to B correctly (151ms)
+   test time is: 32
+    ✓ A should send coin to B correctly (144ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (117ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (125ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (117ms)
+   test time is: 18
+    ✓ A should send coin to B correctly (95ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (136ms)
+   test time is: 36
+    ✓ A should send coin to B correctly (121ms)
+   test time is: 23
+    ✓ A should send coin to B correctly (114ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (129ms)
+   test time is: 34
+    ✓ A should send coin to B correctly (121ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (116ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (107ms)
+   test time is: 36
+    ✓ A should send coin to B correctly (121ms)
+   test time is: 24
+    ✓ A should send coin to B correctly (131ms)
+   test time is: 30
+    ✓ A should send coin to B correctly (127ms)
+   test time is: 30
+    ✓ A should send coin to B correctly (136ms)
+   test time is: 39
+    ✓ A should send coin to B correctly (129ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (122ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (117ms)
+   test time is: 24
+    ✓ A should send coin to B correctly (125ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (118ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (121ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (118ms)
+   test time is: 36
+    ✓ A should send coin to B correctly (127ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (110ms)
+   test time is: 24
+    ✓ A should send coin to B correctly (114ms)
+   test time is: 34
+    ✓ A should send coin to B correctly (118ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (120ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (121ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (129ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (120ms)
+   test time is: 31
+    ✓ A should send coin to B correctly (128ms)
+   test time is: 29
+    ✓ A should send coin to B correctly (155ms)
+   test time is: 44
+    ✓ A should send coin to B correctly (132ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (123ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (112ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (115ms)
+   test time is: 24
+    ✓ A should send coin to B correctly (116ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (113ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (119ms)
+   test time is: 34
+    ✓ A should send coin to B correctly (113ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (110ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (121ms)
+   test time is: 35
+    ✓ A should send coin to B correctly (121ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (118ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (113ms)
+   test time is: 29
+    ✓ A should send coin to B correctly (118ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (123ms)
+   test time is: 33
+    ✓ A should send coin to B correctly (127ms)
+   test time is: 31
+    ✓ A should send coin to B correctly (144ms)
+   test time is: 41
+    ✓ A should send coin to B correctly (131ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (120ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (111ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (117ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (120ms)
+   test time is: 23
+    ✓ A should send coin to B correctly (103ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (115ms)
+   test time is: 34
+    ✓ A should send coin to B correctly (108ms)
+   test time is: 21
+    ✓ A should send coin to B correctly (95ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (117ms)
+   test time is: 31
+    ✓ A should send coin to B correctly (110ms)
+   test time is: 22
+    ✓ A should send coin to B correctly (115ms)
+   test time is: 21
+    ✓ A should send coin to B correctly (98ms)
+   test time is: 24
+    ✓ A should send coin to B correctly (118ms)
+   test time is: 23
+    ✓ A should send coin to B correctly (111ms)
+   test time is: 21
+    ✓ A should send coin to B correctly (108ms)
+   test time is: 24
+    ✓ A should send coin to B correctly (126ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (134ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (124ms)
+   test time is: 23
+    ✓ A should send coin to B correctly (108ms)
+   test time is: 23
+    ✓ A should send coin to B correctly (110ms)
+   test time is: 29
+    ✓ A should send coin to B correctly (116ms)
+   test time is: 20
+    ✓ A should send coin to B correctly (113ms)
+   test time is: 23
+    ✓ A should send coin to B correctly (110ms)
+   test time is: 32
+    ✓ A should send coin to B correctly (114ms)
+   test time is: 20
+    ✓ A should send coin to B correctly (109ms)
+   test time is: 24
+    ✓ A should send coin to B correctly (104ms)
+   test time is: 19
+    ✓ A should send coin to B correctly (111ms)
+   test time is: 20
+    ✓ A should send coin to B correctly (119ms)
+   test time is: 23
+    ✓ A should send coin to B correctly (104ms)
+   test time is: 23
+    ✓ A should send coin to B correctly (117ms)
+   test time is: 23
+    ✓ A should send coin to B correctly (113ms)
+   test time is: 22
+    ✓ A should send coin to B correctly (106ms)
+   test time is: 22
+    ✓ A should send coin to B correctly (112ms)
+   test time is: 33
+    ✓ A should send coin to B correctly (126ms)
+   test time is: 21
+    ✓ A should send coin to B correctly (113ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (128ms)
+   test time is: 44
+    ✓ A should send coin to B correctly (144ms)
+   test time is: 31
+    ✓ A should send coin to B correctly (140ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (124ms)
+   test time is: 24
+    ✓ A should send coin to B correctly (123ms)
+   test time is: 36
+    ✓ A should send coin to B correctly (128ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (111ms)
+   test time is: 24
+    ✓ A should send coin to B correctly (113ms)
+   test time is: 35
+    ✓ A should send coin to B correctly (124ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (118ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (105ms)
+   test time is: 34
+    ✓ A should send coin to B correctly (121ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (121ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (110ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (122ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (122ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (113ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (114ms)
+   test time is: 36
+    ✓ A should send coin to B correctly (129ms)
+   test time is: 31
+    ✓ A should send coin to B correctly (133ms)
+   test time is: 29
+    ✓ A should send coin to B correctly (142ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (134ms)
+   test time is: 34
+    ✓ A should send coin to B correctly (123ms)
+   test time is: 24
+    ✓ A should send coin to B correctly (110ms)
+   test time is: 24
+    ✓ A should send coin to B correctly (118ms)
+   test time is: 34
+    ✓ A should send coin to B correctly (116ms)
+   test time is: 38
+    ✓ A should send coin to B correctly (133ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (111ms)
+   test time is: 34
+    ✓ A should send coin to B correctly (122ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (129ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (107ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (125ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (115ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (110ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (115ms)
+   test time is: 37
+    ✓ A should send coin to B correctly (125ms)
+   test time is: 33
+    ✓ A should send coin to B correctly (127ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (137ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (129ms)
+   test time is: 34
+    ✓ A should send coin to B correctly (113ms)
+   test time is: 22
+    ✓ A should send coin to B correctly (115ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (109ms)
+   test time is: 33
+    ✓ A should send coin to B correctly (121ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (127ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (108ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (121ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (115ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (111ms)
+   test time is: 30
+    ✓ A should send coin to B correctly (125ms)
+   test time is: 35
+    ✓ A should send coin to B correctly (119ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (113ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (119ms)
+   test time is: 33
+    ✓ A should send coin to B correctly (117ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (136ms)
+   test time is: 33
+    ✓ A should send coin to B correctly (139ms)
+   test time is: 46
+    ✓ A should send coin to B correctly (154ms)
+   test time is: 45
+    ✓ A should send coin to B correctly (144ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (116ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (111ms)
+   test time is: 35
+    ✓ A should send coin to B correctly (126ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (119ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (113ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (131ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (119ms)
+   test time is: 24
+    ✓ A should send coin to B correctly (108ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (115ms)
+   test time is: 36
+    ✓ A should send coin to B correctly (128ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (111ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (120ms)
+   test time is: 36
+    ✓ A should send coin to B correctly (128ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (119ms)
+   test time is: 30
+    ✓ A should send coin to B correctly (134ms)
+   test time is: 41
+    ✓ A should send coin to B correctly (135ms)
+   test time is: 63
+    ✓ A should send coin to B correctly (160ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (121ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (115ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (123ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (131ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (121ms)
+   test time is: 22
+    ✓ A should send coin to B correctly (126ms)
+   test time is: 34
+    ✓ A should send coin to B correctly (117ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (109ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (114ms)
+   test time is: 32
+    ✓ A should send coin to B correctly (117ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (117ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (108ms)
+   test time is: 39
+    ✓ A should send coin to B correctly (128ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (120ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (116ms)
+   test time is: 30
+    ✓ A should send coin to B correctly (141ms)
+   test time is: 33
+    ✓ A should send coin to B correctly (138ms)
+   test time is: 39
+    ✓ A should send coin to B correctly (127ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (122ms)
+   test time is: 23
+    ✓ A should send coin to B correctly (107ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (120ms)
+   test time is: 32
+    ✓ A should send coin to B correctly (114ms)
+   test time is: 22
+    ✓ A should send coin to B correctly (105ms)
+   test time is: 24
+    ✓ A should send coin to B correctly (122ms)
+   test time is: 34
+    ✓ A should send coin to B correctly (119ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (124ms)
+   test time is: 23
+    ✓ A should send coin to B correctly (107ms)
+   test time is: 36
+    ✓ A should send coin to B correctly (119ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (120ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (110ms)
+   test time is: 33
+    ✓ A should send coin to B correctly (126ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (122ms)
+   test time is: 22
+    ✓ A should send coin to B correctly (123ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (126ms)
+   test time is: 40
+    ✓ A should send coin to B correctly (148ms)
+   test time is: 31
+    ✓ A should send coin to B correctly (128ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (145ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (119ms)
+   test time is: 22
+    ✓ A should send coin to B correctly (106ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (117ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (121ms)
+   test time is: 29
+    ✓ A should send coin to B correctly (113ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (118ms)
+   test time is: 33
+    ✓ A should send coin to B correctly (116ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (112ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (123ms)
+   test time is: 34
+    ✓ A should send coin to B correctly (116ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (113ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (107ms)
+   test time is: 34
+    ✓ A should send coin to B correctly (122ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (118ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (110ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (124ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (126ms)
+   test time is: 30
+    ✓ A should send coin to B correctly (121ms)
+   test time is: 31
+    ✓ A should send coin to B correctly (135ms)
+   test time is: 41
+    ✓ A should send coin to B correctly (130ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (116ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (124ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (118ms)
+   test time is: 35
+    ✓ A should send coin to B correctly (120ms)
+   test time is: 24
+    ✓ A should send coin to B correctly (111ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (116ms)
+   test time is: 38
+    ✓ A should send coin to B correctly (125ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (121ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (119ms)
+   test time is: 37
+    ✓ A should send coin to B correctly (124ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (120ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (115ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (121ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (117ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (115ms)
+   test time is: 29
+    ✓ A should send coin to B correctly (130ms)
+   test time is: 42
+    ✓ A should send coin to B correctly (152ms)
+   test time is: 30
+    ✓ A should send coin to B correctly (118ms)
+   test time is: 31
+    ✓ A should send coin to B correctly (115ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (118ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (106ms)
+   test time is: 33
+    ✓ A should send coin to B correctly (121ms)
+   test time is: 29
+    ✓ A should send coin to B correctly (118ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (108ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (121ms)
+   test time is: 23
+    ✓ A should send coin to B correctly (118ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (107ms)
+   test time is: 24
+    ✓ A should send coin to B correctly (122ms)
+   test time is: 36
+    ✓ A should send coin to B correctly (130ms)
+   test time is: 24
+    ✓ A should send coin to B correctly (111ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (116ms)
+   test time is: 34
+    ✓ A should send coin to B correctly (116ms)
+   test time is: 21
+    ✓ A should send coin to B correctly (107ms)
+   test time is: 29
+    ✓ A should send coin to B correctly (110ms)
+   test time is: 33
+    ✓ A should send coin to B correctly (133ms)
+   test time is: 32
+    ✓ A should send coin to B correctly (136ms)
+   test time is: 30
+    ✓ A should send coin to B correctly (126ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (125ms)
+   test time is: 34
+    ✓ A should send coin to B correctly (116ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (121ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (116ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (119ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (117ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (110ms)
+   test time is: 24
+    ✓ A should send coin to B correctly (117ms)
+   test time is: 37
+    ✓ A should send coin to B correctly (118ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (109ms)
+   test time is: 22
+    ✓ A should send coin to B correctly (115ms)
+   test time is: 35
+    ✓ A should send coin to B correctly (123ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (124ms)
+   test time is: 24
+    ✓ A should send coin to B correctly (113ms)
+   test time is: 36
+    ✓ A should send coin to B correctly (126ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (121ms)
+   test time is: 33
+    ✓ A should send coin to B correctly (127ms)
+   test time is: 45
+    ✓ A should send coin to B correctly (152ms)
+   test time is: 45
+    ✓ A should send coin to B correctly (133ms)
+   test time is: 30
+    ✓ A should send coin to B correctly (121ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (112ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (121ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (114ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (111ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (112ms)
+   test time is: 34
+    ✓ A should send coin to B correctly (119ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (113ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (115ms)
+   test time is: 36
+    ✓ A should send coin to B correctly (119ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (125ms)
+   test time is: 34
+    ✓ A should send coin to B correctly (122ms)
+   test time is: 35
+    ✓ A should send coin to B correctly (116ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (124ms)
+   test time is: 33
+    ✓ A should send coin to B correctly (128ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (133ms)
+   test time is: 45
+    ✓ A should send coin to B correctly (139ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (121ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (109ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (119ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (121ms)
+   test time is: 24
+    ✓ A should send coin to B correctly (110ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (121ms)
+   test time is: 37
+    ✓ A should send coin to B correctly (125ms)
+   test time is: 38
+    ✓ A should send coin to B correctly (120ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (121ms)
+   test time is: 35
+    ✓ A should send coin to B correctly (117ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (123ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (108ms)
+   test time is: 36
+    ✓ A should send coin to B correctly (127ms)
+   test time is: 23
+    ✓ A should send coin to B correctly (115ms)
+   test time is: 20
+    ✓ A should send coin to B correctly (94ms)
+   test time is: 32
+    ✓ A should send coin to B correctly (132ms)
+   test time is: 30
+    ✓ A should send coin to B correctly (144ms)
+   test time is: 30
+    ✓ A should send coin to B correctly (141ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (111ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (135ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (122ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (118ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (125ms)
+   test time is: 33
+    ✓ A should send coin to B correctly (120ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (113ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (117ms)
+   test time is: 33
+    ✓ A should send coin to B correctly (121ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (123ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (109ms)
+   test time is: 36
+    ✓ A should send coin to B correctly (118ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (122ms)
+   test time is: 29
+    ✓ A should send coin to B correctly (109ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (122ms)
+   test time is: 30
+    ✓ A should send coin to B correctly (149ms)
+   test time is: 31
+    ✓ A should send coin to B correctly (123ms)
+   test time is: 30
+    ✓ A should send coin to B correctly (137ms)
+   test time is: 39
+    ✓ A should send coin to B correctly (123ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (117ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (110ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (122ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (131ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (112ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (130ms)
+   test time is: 35
+    ✓ A should send coin to B correctly (137ms)
+   test time is: 33
+    ✓ A should send coin to B correctly (125ms)
+   test time is: 23
+    ✓ A should send coin to B correctly (116ms)
+   test time is: 36
+    ✓ A should send coin to B correctly (128ms)
+   test time is: 29
+    ✓ A should send coin to B correctly (129ms)
+   test time is: 29
+    ✓ A should send coin to B correctly (118ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (124ms)
+   test time is: 23
+    ✓ A should send coin to B correctly (122ms)
+   test time is: 34
+    ✓ A should send coin to B correctly (132ms)
+   test time is: 30
+    ✓ A should send coin to B correctly (138ms)
+   test time is: 44
+    ✓ A should send coin to B correctly (136ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (125ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (111ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (125ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (128ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (117ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (148ms)
+   test time is: 38
+    ✓ A should send coin to B correctly (129ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (110ms)
+   test time is: 22
+    ✓ A should send coin to B correctly (115ms)
+   test time is: 34
+    ✓ A should send coin to B correctly (122ms)
+   test time is: 30
+    ✓ A should send coin to B correctly (125ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (113ms)
+   test time is: 39
+    ✓ A should send coin to B correctly (118ms)
+   test time is: 32
+    ✓ A should send coin to B correctly (128ms)
+   test time is: 34
+    ✓ A should send coin to B correctly (134ms)
+   test time is: 30
+    ✓ A should send coin to B correctly (134ms)
+   test time is: 38
+    ✓ A should send coin to B correctly (131ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (120ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (118ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (122ms)
+   test time is: 34
+    ✓ A should send coin to B correctly (125ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (109ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (120ms)
+   test time is: 34
+    ✓ A should send coin to B correctly (122ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (123ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (125ms)
+   test time is: 36
+    ✓ A should send coin to B correctly (126ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (123ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (111ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (128ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (130ms)
+   test time is: 29
+    ✓ A should send coin to B correctly (147ms)
+   test time is: 30
+    ✓ A should send coin to B correctly (135ms)
+   test time is: 41
+    ✓ A should send coin to B correctly (133ms)
+   test time is: 31
+    ✓ A should send coin to B correctly (146ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (119ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (118ms)
+   test time is: 38
+    ✓ A should send coin to B correctly (129ms)
+   test time is: 29
+    ✓ A should send coin to B correctly (126ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (132ms)
+   test time is: 37
+    ✓ A should send coin to B correctly (124ms)
+   test time is: 32
+    ✓ A should send coin to B correctly (133ms)
+   test time is: 32
+    ✓ A should send coin to B correctly (126ms)
+   test time is: 38
+    ✓ A should send coin to B correctly (124ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (132ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (134ms)
+   test time is: 30
+    ✓ A should send coin to B correctly (125ms)
+   test time is: 29
+    ✓ A should send coin to B correctly (136ms)
+   test time is: 42
+    ✓ A should send coin to B correctly (149ms)
+   test time is: 34
+    ✓ A should send coin to B correctly (146ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (136ms)
+   test time is: 37
+    ✓ A should send coin to B correctly (125ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (108ms)
+   test time is: 43
+    ✓ A should send coin to B correctly (139ms)
+   test time is: 36
+    ✓ A should send coin to B correctly (128ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (118ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (109ms)
+   test time is: 50
+    ✓ A should send coin to B correctly (135ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (117ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (113ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (116ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (121ms)
+   test time is: 24
+    ✓ A should send coin to B correctly (106ms)
+   test time is: 30
+    ✓ A should send coin to B correctly (132ms)
+   test time is: 41
+    ✓ A should send coin to B correctly (137ms)
+   test time is: 31
+    ✓ A should send coin to B correctly (135ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (114ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (122ms)
+   test time is: 33
+    ✓ A should send coin to B correctly (117ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (107ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (117ms)
+   test time is: 35
+    ✓ A should send coin to B correctly (119ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (124ms)
+   test time is: 23
+    ✓ A should send coin to B correctly (106ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (117ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (122ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (117ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (131ms)
+   test time is: 37
+    ✓ A should send coin to B correctly (126ms)
+   test time is: 35
+    ✓ A should send coin to B correctly (134ms)
+   test time is: 29
+    ✓ A should send coin to B correctly (138ms)
+   test time is: 45
+    ✓ A should send coin to B correctly (150ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (118ms)
+   test time is: 40
+    ✓ A should send coin to B correctly (134ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (119ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (111ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (111ms)
+   test time is: 31
+    ✓ A should send coin to B correctly (117ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (117ms)
+   test time is: 24
+    ✓ A should send coin to B correctly (114ms)
+   test time is: 35
+    ✓ A should send coin to B correctly (119ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (120ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (107ms)
+   test time is: 39
+    ✓ A should send coin to B correctly (122ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (132ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (115ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (117ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (122ms)
+   test time is: 31
+    ✓ A should send coin to B correctly (123ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (120ms)
+   test time is: 44
+    ✓ A should send coin to B correctly (137ms)
+   test time is: 31
+    ✓ A should send coin to B correctly (127ms)
+   test time is: 29
+    ✓ A should send coin to B correctly (147ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (115ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (122ms)
+   test time is: 34
+    ✓ A should send coin to B correctly (120ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (112ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (121ms)
+   test time is: 35
+    ✓ A should send coin to B correctly (117ms)
+   test time is: 24
+    ✓ A should send coin to B correctly (132ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (108ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (120ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (129ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (116ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (118ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (118ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (111ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (118ms)
+   test time is: 41
+    ✓ A should send coin to B correctly (132ms)
+   test time is: 30
+    ✓ A should send coin to B correctly (135ms)
+   test time is: 34
+    ✓ A should send coin to B correctly (143ms)
+   test time is: 44
+    ✓ A should send coin to B correctly (134ms)
+   test time is: 36
+    ✓ A should send coin to B correctly (129ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (115ms)
+   test time is: 24
+    ✓ A should send coin to B correctly (120ms)
+   test time is: 33
+    ✓ A should send coin to B correctly (116ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (115ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (115ms)
+   test time is: 34
+    ✓ A should send coin to B correctly (121ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (122ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (110ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (121ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (121ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (112ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (141ms)
+   test time is: 35
+    ✓ A should send coin to B correctly (124ms)
+   test time is: 32
+    ✓ A should send coin to B correctly (126ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (138ms)
+   test time is: 24
+    ✓ A should send coin to B correctly (134ms)
+   test time is: 35
+    ✓ A should send coin to B correctly (121ms)
+   test time is: 23
+    ✓ A should send coin to B correctly (108ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (121ms)
+   test time is: 36
+    ✓ A should send coin to B correctly (125ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (123ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (111ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (115ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (115ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (116ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (113ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (119ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (108ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (120ms)
+   test time is: 35
+    ✓ A should send coin to B correctly (121ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (116ms)
+   test time is: 29
+    ✓ A should send coin to B correctly (145ms)
+   test time is: 42
+    ✓ A should send coin to B correctly (142ms)
+   test time is: 42
+    ✓ A should send coin to B correctly (133ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (123ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (108ms)
+   test time is: 33
+    ✓ A should send coin to B correctly (112ms)
+   test time is: 39
+    ✓ A should send coin to B correctly (131ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (106ms)
+   test time is: 32
+    ✓ A should send coin to B correctly (123ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (117ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (111ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (115ms)
+   test time is: 34
+    ✓ A should send coin to B correctly (118ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (112ms)
+   test time is: 24
+    ✓ A should send coin to B correctly (118ms)
+   test time is: 36
+    ✓ A should send coin to B correctly (116ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (117ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (121ms)
+   test time is: 40
+    ✓ A should send coin to B correctly (138ms)
+   test time is: 32
+    ✓ A should send coin to B correctly (138ms)
+   test time is: 31
+    ✓ A should send coin to B correctly (143ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (109ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (122ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (114ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (112ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (125ms)
+   test time is: 36
+    ✓ A should send coin to B correctly (121ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (116ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (115ms)
+   test time is: 35
+    ✓ A should send coin to B correctly (116ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (124ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (111ms)
+   test time is: 34
+    ✓ A should send coin to B correctly (121ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (121ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (117ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (126ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (131ms)
+   test time is: 32
+    ✓ A should send coin to B correctly (126ms)
+   test time is: 33
+    ✓ A should send coin to B correctly (143ms)
+   test time is: 42
+    ✓ A should send coin to B correctly (132ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (126ms)
+   test time is: 24
+    ✓ A should send coin to B correctly (111ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (122ms)
+   test time is: 35
+    ✓ A should send coin to B correctly (117ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (113ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (116ms)
+   test time is: 36
+    ✓ A should send coin to B correctly (122ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (123ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (109ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (116ms)
+   test time is: 34
+    ✓ A should send coin to B correctly (126ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (112ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (121ms)
+   test time is: 24
+    ✓ A should send coin to B correctly (124ms)
+   test time is: 32
+    ✓ A should send coin to B correctly (127ms)
+   test time is: 33
+    ✓ A should send coin to B correctly (136ms)
+   test time is: 42
+    ✓ A should send coin to B correctly (132ms)
+   test time is: 42
+    ✓ A should send coin to B correctly (132ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (113ms)
+   test time is: 24
+    ✓ A should send coin to B correctly (122ms)
+   test time is: 33
+    ✓ A should send coin to B correctly (112ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (104ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (117ms)
+   test time is: 36
+    ✓ A should send coin to B correctly (125ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (129ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (111ms)
+   test time is: 37
+    ✓ A should send coin to B correctly (119ms)
+   test time is: 24
+    ✓ A should send coin to B correctly (132ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (113ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (121ms)
+   test time is: 31
+    ✓ A should send coin to B correctly (127ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (112ms)
+   test time is: 33
+    ✓ A should send coin to B correctly (137ms)
+   test time is: 43
+    ✓ A should send coin to B correctly (141ms)
+   test time is: 31
+    ✓ A should send coin to B correctly (152ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (106ms)
+   test time is: 21
+    ✓ A should send coin to B correctly (109ms)
+   test time is: 39
+    ✓ A should send coin to B correctly (129ms)
+   test time is: 34
+    ✓ A should send coin to B correctly (139ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (121ms)
+   test time is: 36
+    ✓ A should send coin to B correctly (121ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (123ms)
+   test time is: 29
+    ✓ A should send coin to B correctly (120ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (114ms)
+   test time is: 24
+    ✓ A should send coin to B correctly (123ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (116ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (125ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (123ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (110ms)
+   test time is: 40
+    ✓ A should send coin to B correctly (143ms)
+   test time is: 39
+    ✓ A should send coin to B correctly (143ms)
+   test time is: 34
+    ✓ A should send coin to B correctly (128ms)
+   test time is: 40
+    ✓ A should send coin to B correctly (152ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (181ms)
+   test time is: 35
+    ✓ A should send coin to B correctly (246ms)
+   test time is: 32
+    ✓ A should send coin to B correctly (122ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (115ms)
+   test time is: 30
+    ✓ A should send coin to B correctly (121ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (117ms)
+   test time is: 45
+    ✓ A should send coin to B correctly (154ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (125ms)
+   test time is: 30
+    ✓ A should send coin to B correctly (136ms)
+   test time is: 31
+    ✓ A should send coin to B correctly (136ms)
+   test time is: 29
+    ✓ A should send coin to B correctly (132ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (127ms)
+   test time is: 36
+    ✓ A should send coin to B correctly (129ms)
+   test time is: 71
+    ✓ A should send coin to B correctly (178ms)
+   test time is: 29
+    ✓ A should send coin to B correctly (185ms)
+   test time is: 43
+    ✓ A should send coin to B correctly (226ms)
+   test time is: 30
+    ✓ A should send coin to B correctly (146ms)
+   test time is: 33
+    ✓ A should send coin to B correctly (143ms)
+   test time is: 32
+    ✓ A should send coin to B correctly (136ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (122ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (158ms)
+   test time is: 24
+    ✓ A should send coin to B correctly (132ms)
+   test time is: 150
+    ✓ A should send coin to B correctly (290ms)
+   test time is: 23
+    ✓ A should send coin to B correctly (128ms)
+   test time is: 31
+    ✓ A should send coin to B correctly (132ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (113ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (135ms)
+   test time is: 36
+    ✓ A should send coin to B correctly (125ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (124ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (117ms)
+   test time is: 32
+    ✓ A should send coin to B correctly (141ms)
+   test time is: 35
+    ✓ A should send coin to B correctly (155ms)
+   test time is: 34
+    ✓ A should send coin to B correctly (159ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (125ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (126ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (125ms)
+   test time is: 31
+    ✓ A should send coin to B correctly (114ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (123ms)
+   test time is: 43
+    ✓ A should send coin to B correctly (144ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (119ms)
+   test time is: 29
+    ✓ A should send coin to B correctly (149ms)
+   test time is: 35
+    ✓ A should send coin to B correctly (137ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (122ms)
+   test time is: 32
+    ✓ A should send coin to B correctly (138ms)
+   test time is: 41
+    ✓ A should send coin to B correctly (142ms)
+   test time is: 31
+    ✓ A should send coin to B correctly (144ms)
+   test time is: 38
+    ✓ A should send coin to B correctly (138ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (120ms)
+   test time is: 34
+    ✓ A should send coin to B correctly (130ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (123ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (118ms)
+   test time is: 33
+    ✓ A should send coin to B correctly (132ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (134ms)
+   test time is: 29
+    ✓ A should send coin to B correctly (120ms)
+   test time is: 32
+    ✓ A should send coin to B correctly (129ms)
+   test time is: 38
+    ✓ A should send coin to B correctly (126ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (126ms)
+   test time is: 31
+    ✓ A should send coin to B correctly (131ms)
+   test time is: 45
+    ✓ A should send coin to B correctly (146ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (139ms)
+   test time is: 42
+    ✓ A should send coin to B correctly (145ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (118ms)
+   test time is: 24
+    ✓ A should send coin to B correctly (122ms)
+   test time is: 41
+    ✓ A should send coin to B correctly (131ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (139ms)
+   test time is: 24
+    ✓ A should send coin to B correctly (120ms)
+   test time is: 24
+    ✓ A should send coin to B correctly (130ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (132ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (118ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (137ms)
+   test time is: 42
+    ✓ A should send coin to B correctly (135ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (119ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (140ms)
+   test time is: 36
+    ✓ A should send coin to B correctly (144ms)
+   test time is: 32
+    ✓ A should send coin to B correctly (143ms)
+   test time is: 33
+    ✓ A should send coin to B correctly (144ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (132ms)
+   test time is: 35
+    ✓ A should send coin to B correctly (127ms)
+   test time is: 33
+    ✓ A should send coin to B correctly (123ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (125ms)
+   test time is: 33
+    ✓ A should send coin to B correctly (125ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (128ms)
+   test time is: 30
+    ✓ A should send coin to B correctly (119ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (127ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (129ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (114ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (127ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (133ms)
+   test time is: 30
+    ✓ A should send coin to B correctly (131ms)
+   test time is: 31
+    ✓ A should send coin to B correctly (138ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (132ms)
+   test time is: 41
+    ✓ A should send coin to B correctly (141ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (117ms)
+   test time is: 24
+    ✓ A should send coin to B correctly (128ms)
+   test time is: 36
+    ✓ A should send coin to B correctly (130ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (117ms)
+   test time is: 24
+    ✓ A should send coin to B correctly (115ms)
+   test time is: 36
+    ✓ A should send coin to B correctly (135ms)
+   test time is: 29
+    ✓ A should send coin to B correctly (137ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (120ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (125ms)
+   test time is: 24
+    ✓ A should send coin to B correctly (123ms)
+   test time is: 23
+    ✓ A should send coin to B correctly (112ms)
+   test time is: 30
+    ✓ A should send coin to B correctly (140ms)
+   test time is: 41
+    ✓ A should send coin to B correctly (142ms)
+   test time is: 36
+    ✓ A should send coin to B correctly (146ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (123ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (119ms)
+   test time is: 34
+    ✓ A should send coin to B correctly (124ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (118ms)
+   test time is: 24
+    ✓ A should send coin to B correctly (123ms)
+   test time is: 32
+    ✓ A should send coin to B correctly (134ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (125ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (122ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (124ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (126ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (118ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (132ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (131ms)
+   test time is: 30
+    ✓ A should send coin to B correctly (128ms)
+   test time is: 30
+    ✓ A should send coin to B correctly (158ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (139ms)
+   test time is: 33
+    ✓ A should send coin to B correctly (121ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (113ms)
+   test time is: 23
+    ✓ A should send coin to B correctly (122ms)
+   test time is: 34
+    ✓ A should send coin to B correctly (121ms)
+   test time is: 24
+    ✓ A should send coin to B correctly (121ms)
+   test time is: 24
+    ✓ A should send coin to B correctly (119ms)
+   test time is: 32
+    ✓ A should send coin to B correctly (125ms)
+   test time is: 24
+    ✓ A should send coin to B correctly (128ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (113ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (125ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (128ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (119ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (137ms)
+   test time is: 40
+    ✓ A should send coin to B correctly (145ms)
+   test time is: 33
+    ✓ A should send coin to B correctly (147ms)
+   test time is: 30
+    ✓ A should send coin to B correctly (117ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (127ms)
+   test time is: 24
+    ✓ A should send coin to B correctly (129ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (116ms)
+   test time is: 23
+    ✓ A should send coin to B correctly (121ms)
+   test time is: 33
+    ✓ A should send coin to B correctly (125ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (120ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (121ms)
+   test time is: 34
+    ✓ A should send coin to B correctly (126ms)
+   test time is: 24
+    ✓ A should send coin to B correctly (119ms)
+   test time is: 24
+    ✓ A should send coin to B correctly (117ms)
+   test time is: 35
+    ✓ A should send coin to B correctly (134ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (122ms)
+   test time is: 29
+    ✓ A should send coin to B correctly (140ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (136ms)
+   test time is: 41
+    ✓ A should send coin to B correctly (149ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (123ms)
+   test time is: 24
+    ✓ A should send coin to B correctly (116ms)
+   test time is: 37
+    ✓ A should send coin to B correctly (127ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (125ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (118ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (123ms)
+   test time is: 31
+    ✓ A should send coin to B correctly (131ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (120ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (121ms)
+   test time is: 34
+    ✓ A should send coin to B correctly (129ms)
+   test time is: 35
+    ✓ A should send coin to B correctly (133ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (130ms)
+   test time is: 69
+    ✓ A should send coin to B correctly (166ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (145ms)
+   test time is: 32
+    ✓ A should send coin to B correctly (143ms)
+   test time is: 40
+    ✓ A should send coin to B correctly (151ms)
+   test time is: 32
+    ✓ A should send coin to B correctly (149ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (133ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (128ms)
+   test time is: 33
+    ✓ A should send coin to B correctly (130ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (133ms)
+   test time is: 32
+    ✓ A should send coin to B correctly (126ms)
+   test time is: 29
+    ✓ A should send coin to B correctly (130ms)
+   test time is: 30
+    ✓ A should send coin to B correctly (131ms)
+   test time is: 30
+    ✓ A should send coin to B correctly (123ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (137ms)
+   test time is: 30
+    ✓ A should send coin to B correctly (128ms)
+   test time is: 30
+    ✓ A should send coin to B correctly (124ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (135ms)
+   test time is: 39
+    ✓ A should send coin to B correctly (138ms)
+   test time is: 33
+    ✓ A should send coin to B correctly (141ms)
+   test time is: 29
+    ✓ A should send coin to B correctly (155ms)
+   test time is: 44
+    ✓ A should send coin to B correctly (147ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (142ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (110ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (131ms)
+   test time is: 34
+    ✓ A should send coin to B correctly (118ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (114ms)
+   test time is: 23
+    ✓ A should send coin to B correctly (127ms)
+   test time is: 38
+    ✓ A should send coin to B correctly (126ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (132ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (113ms)
+   test time is: 34
+    ✓ A should send coin to B correctly (120ms)
+   test time is: 36
+    ✓ A should send coin to B correctly (134ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (117ms)
+   test time is: 31
+    ✓ A should send coin to B correctly (135ms)
+   test time is: 29
+    ✓ A should send coin to B correctly (138ms)
+   test time is: 30
+    ✓ A should send coin to B correctly (144ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (114ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (156ms)
+   test time is: 27
+    ✓ A should send coin to B correctly (135ms)
+   test time is: 25
+    ✓ A should send coin to B correctly (114ms)
+   test time is: 20
+    ✓ A should send coin to B correctly (116ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (118ms)
+   test time is: 22
+    ✓ A should send coin to B correctly (119ms)
+   test time is: 20
+    ✓ A should send coin to B correctly (111ms)
+   test time is: 29
+    ✓ A should send coin to B correctly (118ms)
+   test time is: 22
+    ✓ A should send coin to B correctly (114ms)
+   test time is: 23
+    ✓ A should send coin to B correctly (112ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (121ms)
+   test time is: 24
+    ✓ A should send coin to B correctly (115ms)
+   test time is: 28
+    ✓ A should send coin to B correctly (119ms)
+   test time is: 30
+    ✓ A should send coin to B correctly (149ms)
+   test time is: 39
+    ✓ A should send coin to B correctly (127ms)
+   test time is: 24
+    ✓ A should send coin to B correctly (118ms)
+   test time is: 26
+    ✓ A should send coin to B correctly (118ms)
+   test time is: 24
+    ✓ A should send coin to B correctly (119ms)
