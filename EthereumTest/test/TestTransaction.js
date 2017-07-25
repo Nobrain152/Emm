@@ -10,14 +10,16 @@ contract('Transaction', function (accounts) {
             var storage = null;
             var start = new Date();
             //AB初始钱
-            var origin_A = 0;
-            var origin_B = 0;
+            var origin_A = 100;
+            var origin_B = 100;
             var final_A = 0;
             var final_B = 0;
             return Transaction.deployed().then(function (instance) {
                 storage = instance;
-                origin_A = storage.balances.call(accounts[0],{from: accounts[0]});
-                origin_B = storage.balances.call(accounts[1],{from: accounts[1]});
+                storage.mint(accounts[1],origin_B,{from: accounts[1]})
+                return storage.mint(accounts[0],origin_A,{from: accounts[0]})
+            }).then(function () {
+                start = new Date();
                 return storage.send(accounts[1], amount,{from: accounts[0]});
             }).then(function () {
                 final_A = storage.balances.call(accounts[0],{from: accounts[0]});
