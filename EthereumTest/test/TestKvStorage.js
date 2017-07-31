@@ -1,10 +1,12 @@
 var KvStorage = artifacts.require('./KvStorage.sol');
 
 contract('KvStorage', function (accounts) {
-    for (var i = 0; i < 300; i++) {
+    var len = 6688;
+    for (var i = 0; i < 10; i++) {
         it('What we get should be the same as what we set', function () {
-            var data = randomWord(false, 6 * 1024);
-            var key = randomWord(false, 128);
+            var data = randomWord(false, len);
+            console.log(data.length);
+            var key = randomWord(false, 1);
             var storage = null;
             var start = new Date();
             return KvStorage.deployed().then(function (instance) {
@@ -20,7 +22,8 @@ contract('KvStorage', function (accounts) {
                 var end = new Date();
                 var time = end - start;
                 // 输出测试时间，这里的时间是自己算的，更加准确
-                console.log("   test time is: " + time);
+                console.log("   test time is: " + time + " and len is: " + len);
+                len++;
             })
         })
     }

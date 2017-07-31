@@ -32,11 +32,11 @@ public class Analysis {
         }
     }
 
-    private double mean(ArrayList<Integer> data) {
+    private double mean(ArrayList<Double> data) {
 
         double res = 0;
-        for (int n : data) {
-            res += (double) n;
+        for (double n : data) {
+            res += n;
         }
         res /= data.size();
         BigDecimal b = new BigDecimal(res);
@@ -44,23 +44,27 @@ public class Analysis {
         return res;
     }
 
-    private int max(ArrayList<Integer> data) {
-        int res = data.get(0);
-        for (int n : data) {
+    private double max(ArrayList<Double> data) {
+        double res = data.get(0);
+        for (double n : data) {
             if (res < n) {
                 res = n;
             }
         }
+        BigDecimal b = new BigDecimal(res);
+        res = b.setScale(2, BigDecimal.ROUND_HALF_UP).doubleValue();
         return res;
     }
 
-    private int min(ArrayList<Integer> data) {
-        int res = data.get(0);
-        for (int n : data) {
+    private double min(ArrayList<Double> data) {
+        double res = data.get(0);
+        for (double n : data) {
             if (res > n) {
                 res = n;
             }
         }
+        BigDecimal b = new BigDecimal(res);
+        res = b.setScale(2, BigDecimal.ROUND_HALF_UP).doubleValue();
         return res;
     }
 
@@ -72,7 +76,7 @@ public class Analysis {
             String fromPath = FROM_PATH + tc;
             String toPath = TO_PATH;
             String index = tc.toUpperCase() + "\t\t" + df.format(new Date()) + "\t\t" + os + "\t\tMEAN TIME: ";
-            ArrayList<Integer> data = DataReader.readFile(fromPath);
+            ArrayList<Double> data = DataReader.readFile(fromPath);
             double res = mean(data);
             DataWriter.writeFile(index + res + "\t\t\tMAX TIME: " + max(data) + "\t\tMIN TIME: " + min(data) + "\n", toPath);
 
@@ -82,7 +86,7 @@ public class Analysis {
     public static void main(String[] args) {
         // 在这里传入你想分析的文件的文件名，可以通过数组或arrayList传入多个文件
         String[] cases = {"k128b-v128b", "k128b-v256b", "k128b-v512b", "k128b-v1kb", "k128b-v2kb", "k128b-v3kb", "k128b-v4kb",
-                "k128b-v5kb", "k128b-v6kb","pure-trans", "total-trans"};
+                "k128b-v5kb", "k128b-v6kb"};
         Analysis analysis = new Analysis(cases);
         analysis.function();
     }

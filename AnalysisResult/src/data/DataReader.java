@@ -15,10 +15,10 @@ public class DataReader {
      * @param path the file path
      * @return all valid time in terms of integer
      */
-    public static ArrayList<Integer> readFile(String path) {
+    public static ArrayList<Double> readFile(String path) {
         File file = new File(path);
         BufferedReader reader = null;
-        ArrayList<Integer> array = new ArrayList<>();
+        ArrayList<Double> array = new ArrayList<>();
         try {
             reader = new BufferedReader(new FileReader(file));
             String temp;
@@ -26,7 +26,7 @@ public class DataReader {
                 if (temp.contains(INDEX)) {
                     String num = temp.substring(INDEX.length());
                     //System.out.println(num);
-                    array.add(Integer.parseInt(num));
+                    array.add(Double.parseDouble(num));
                 }
             }
         } catch (IOException e) {
